@@ -9,7 +9,7 @@ terraform {
   cloud {
     organization = "Terraformpractice2111"
     workspaces {
-      name = "AzureLabs"
+      name = "workspace-2111"
     }
   }
 }
